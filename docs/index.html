@@ -5,7 +5,7 @@
 <script>
     function COLORS() {
         const elem = document.getElementById("color me")
-        elem.style.color = rgb(Math.random() * 255,Math.random() * 255,Math.random() * 255)
+        elem.style.color = `rgb(${Math.random() * 255},${Math.random() * 255},${Math.random() * 255})`
         setTimeout(COLORS, 100);
     }
     COLORS();
