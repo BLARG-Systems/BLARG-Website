@@ -1,4 +1,4 @@
-getHead() {
+function getHead() {
     document.write(`
         <link rel="stylesheet" href="style.css" />
         <link rel="icon" href="assets/favicon.ico" />
@@ -7,7 +7,7 @@ getHead() {
     `)
 }
 
-getHeader() {
+function getHeader() {
 	document.write(`
 		<header>
             <div class="titlebar">
