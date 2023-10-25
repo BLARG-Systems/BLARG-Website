@@ -1,1 +1,12 @@
 <h1><b>:) hello wolrd</b></h1>
+
+<h1 id="color me"><b>I LIKE COLORS</b></h1>
+
+<script>
+    function COLORS() {
+        const elem = document.getElementById("color me")
+        elem.style.color = rgb(Math.random() * 255,Math.random() * 255,Math.random() * 255)
+        setTimeout(COLORS, 100);
+    }
+    COLORS();
+</script>
