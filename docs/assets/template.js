@@ -11,7 +11,7 @@ function getHeader() {
 	document.write(`
 		<header>
             <div class="titlebar">
-                <a href="/" aria-hidden="true"><img src="assets/logo.png" /></a>
+                <a href="index.html" aria-hidden="true"><img src="assets/logo.png" /></a>
                 <h1>BLARG! Systems: <i>Approaching expectations.</i></h1>
             </div>
             <nav>
@@ -25,4 +25,13 @@ function getHeader() {
             </nav>
         </header>
 	`)
+}
+
+
+function getFooter() {
+    document.write(`
+        <footer>
+            <p>Copyright &copy; 2023, BLARG! Systems. All rights reserved.</p>
+        </footer>
+    `)
 }
