@@ -12,7 +12,10 @@ function getHeader() {
 		<header>
             <div class="titlebar">
                 <a href="index.html" aria-hidden="true"><img src="assets/logo.png" /></a>
-                <h1>BLARG! Systems: <i>Approaching expectations.</i></h1>
+                <h1>BLARG! Systems
+                    <br> 
+                    <i>Approaching expectations.</i>
+                </h1>
             </div>
             <nav>
                 <ul class="navbar">
