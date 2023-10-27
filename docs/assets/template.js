@@ -19,7 +19,7 @@ function getHeader() {
             </div>
             <nav>
                 <ul class="navbar">
-                    <li><a href="/">Home</a></li>
+                    <li><a href="index.html">Home</a></li>
                     <li><a href="advisors.html">Advisor Committee</a></li>
                     <li><a href="objectives.html">Weekly Objectives</a></li>
                     <li><a href="journals.html">Journals and Research Papers</a></li>
