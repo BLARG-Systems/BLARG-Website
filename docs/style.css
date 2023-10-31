@@ -178,6 +178,7 @@ main iframe {
 .objectives {
     display: grid;
     grid-template-columns: auto auto;
+    padding-left: 10vw;
 }
     .objectives div {
         outline: #4e6ab8;
