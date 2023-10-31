@@ -33,7 +33,7 @@
 
         .navbar a:hover {
             background-color: #4e6ab8;
-            color: #333;
+            color: #fff;
         }
 
 .visualhide {
@@ -174,5 +174,28 @@ main iframe {
     color: #333;
     min-width: 300px;
 }
+
+.objectives {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+    .objectives div {
+        outline: #4e6ab8;
+        outline-width: thick;
+        outline-style: auto;
+        width: 40vw;
+        height: 15vw;
+    }
+
+    .objectives div h1 {
+        text-align: center;
+        font-size: 2.5vw;
+    }
+
+    .objectives div ul {
+        width: 35vw;
+        padding-left: 3vw;
+        font-size: .85vw;
+    }
 
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');

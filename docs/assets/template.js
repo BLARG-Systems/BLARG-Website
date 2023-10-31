@@ -11,7 +11,7 @@ function getHeader() {
 	document.write(`
 		<header>
             <div class="titlebar">
-                <a href="index.html" aria-hidden="true"><img src="assets/logo.png" /></a>
+                <a href="/" aria-hidden="true"><img src="assets/logo.png" /></a>
                 <h1>BLARG! Systems
                     <br> 
                     <i>Approaching expectations.</i>
