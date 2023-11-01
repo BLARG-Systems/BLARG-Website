@@ -22,7 +22,7 @@ function getHeader() {
                     <li><a href="index.html">Home</a></li>
                     <li><a href="advisors.html">Advisor Committee</a></li>
                     <li><a href="objectives.html">Weekly Objectives</a></li>
-                    <li><a href="journals.html">Journals and Research Papers</a></li>
+                    <li><a href="journals.html">Journals</a></li>
                     <li><a href="timeline.html">Project Timeline</a></li>
                 </ul>
             </nav>
