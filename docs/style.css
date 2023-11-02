@@ -5,8 +5,8 @@
     background-color: #333;
     color: #fff;
     padding: 1vw;
-    padding-left: 2vw;
-    padding-right: 2vw;
+    padding-left: 8vw;
+    padding-right: 8vw;
 }
 
     .navbar ul {
@@ -25,7 +25,7 @@
     .navbar a {
         color: #fff;
         text-decoration: none;
-        font-size: 1.5vw;
+        font-size: 1.25vw;
         font-weight: bold;
         text-transform: uppercase;
         padding: 10px;
@@ -34,7 +34,6 @@
 
         .navbar a:hover {
             background-color: #4e6ab8;
-            color: #fff;
         }
 
 .visualhide {
@@ -110,6 +109,7 @@ main p {
 .journal {
     width: 80vw;
     height: 90vh;
+    margin-bottom: 3vh;
 }
 
 .objectives {
