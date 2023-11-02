@@ -4,9 +4,9 @@
     align-items: center;
     background-color: #333;
     color: #fff;
-    padding: 10px;
-    padding-left: 7%;
-    padding-right: 7%;
+    padding: 1vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
 }
 
     .navbar ul {
@@ -16,7 +16,8 @@
     }
 
     .navbar li {
-        margin-right: 20px;
+        margin-right: 1vw;
+        margin-left: 1vw;
         list-style: none;
         font-family: Arial, Helvetica, sans-serif;
     }
@@ -24,7 +25,7 @@
     .navbar a {
         color: #fff;
         text-decoration: none;
-        font-size: 18px;
+        font-size: 1.75vw;
         font-weight: bold;
         text-transform: uppercase;
         padding: 10px;
@@ -46,64 +47,25 @@
     align-items: center;
     background-color: #333;
     color: #fff;
-    padding: 10px;
+    padding: 2vw;
     font-family: Arial, Helvetica, sans-serif;
 }
 
     .titlebar img {
         width: 7vw;
         height: 7vw;
-        margin-right: 20px;
     }
 
     .titlebar h1 {
         justify-items: center;
         display: grid;
         font-size: 2.25vw;
-        width: 83vw;
+        width: 81vw;
     }
 
     .titlebar i {
-        font-size: .75em;
+        font-size: 1.75vw;
         color: #4e6ab8;
-    }
-
-.advisorRow {
-    display: flex;
-    justify-content: left;
-    align-items: left;
-    padding: 10px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.advisorText {
-    margin-left: 20px;
-    flex: 50%;
-}
-
-    .advisorText p {
-        padding: 0px;
-        /*align to the left*/
-        text-align: left;
-    }
-
-    .advisorText h2 {
-        padding: 0px;
-        /*align to the left*/
-        text-align: left;
-    }
-
-.advisorPhoto {
-    flex: 50%;
-}
-
-    .advisorPhoto img {
-        width: 150px;
-        height: 150px;
-        /*center the image*/
-        margin-left: auto;
-        margin-right: auto;
-        display: block;
     }
 
 header {
@@ -114,15 +76,15 @@ header {
 footer {
     background-color: #333;
     color: #fff;
-    padding: 10px;
+    padding: 2vh;
     text-align: center;
     box-shadow: 0 50vh 0 50vh #333;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 main {
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 1vw;
+    margin-right: 1vw;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -145,34 +107,13 @@ main p {
     text-align: center;
 }
 
-main iframe {
-    margin-left: -7.5%;
-    margin-right: 2.5%;
-    margin-bottom: 25px;
-    width: 115%;
-    height: 600px;
-}
-
-.timeline thead {
-    background-color: #333;
-    color: #fff;
-}
-
-    .timeline thead th {
-        background-color: #333;
-        color: #fff;
-        text-align: center;
-    }
-
-.timeline tbody {
-    background-color: #fff;
-    color: #333;
-}
-
-.timeline td {
-    background-color: #fff;
-    color: #333;
-    min-width: 300px;
+journal {
+    width: 80vw;
+    height: 90vh;
+    margin-left: 5vw;
+    margin-top: 2.5vh;
+    margin-bottom: 2.5vh;
+    margin-right: 5vw;
 }
 
 .objectives {
