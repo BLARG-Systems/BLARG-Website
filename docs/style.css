@@ -120,6 +120,7 @@ journal {
     display: grid;
     grid-template-columns: auto auto;
     margin-left: 10vw;
+    margin-right: 10vw;
     margin-top: 2vw;
     margin-bottom: 2vw;
 }
