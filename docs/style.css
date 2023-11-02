@@ -107,7 +107,7 @@ main p {
     text-align: center;
 }
 
-journal {
+.journal {
     width: 80vw;
     height: 90vh;
     margin-left: 5vw;
