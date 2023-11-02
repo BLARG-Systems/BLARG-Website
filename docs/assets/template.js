@@ -20,10 +20,10 @@ function getHeader() {
             <nav>
                 <ul class="navbar">
                     <li><a href="/">Home</a></li>
-                    <li><a href="/advisors">Advisor Committee</a></li>
                     <li><a href="/objectives">Weekly Objectives</a></li>
                     <li><a href="/journals">Journals</a></li>
                     <li><a href="/timeline">Project Timeline</a></li>
+                    <li><a href="/bibliography">Bibliography</a></li>
                 </ul>
             </nav>
         </header>
