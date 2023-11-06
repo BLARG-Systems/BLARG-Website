@@ -114,6 +114,12 @@ main p {
     margin-bottom: 3vh;
 }
 
+.timeline {
+    width: 80vw;
+    height: 90vh;
+    margin-bottom: 3vh;
+}
+
 .objectives {
     display: grid;
     grid-template-columns: auto auto;
