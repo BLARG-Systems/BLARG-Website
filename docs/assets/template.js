@@ -4,6 +4,11 @@ function getHead() {
         <link rel="icon" href="assets/favicon.ico" />
         <meta charset="utf-8" />
         <Title>BLARG! Systems</Title>
+        <meta content="BLARG! Systems" property="og:title" />
+        <meta content="Here at BLARG! Systems, we dare to challenge the next generation of programming. Our new compiled language, BLARG!, pushes toward meeting modern expectations in programming." property="og:description" />
+        <meta content="https://blargsys.com/" property="og:url" />
+        <meta content="https://blargsys.com/assets/logo.png" property="og:image" />
+        <meta content="#4e6ab8" data-react-helmet="true" name="theme-color" />
     `)
 }
 
