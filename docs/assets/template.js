@@ -27,7 +27,8 @@ function getHeader() {
                     <li><a href="/">Home</a></li>
                     <li><a href="/objectives">Weekly Objectives</a></li>
                     <li><a href="/journals">Journals</a></li>
-                    <li><a href="/timeline">Project Timeline</a></li>
+                    <li><a href="/timeline">Timeline</a></li>
+                    <li><a href="/repositories">Repositories</a></li>
                     <li><a href="/bibliography">Bibliography</a></li>
                 </ul>
             </nav>
