@@ -136,13 +136,13 @@ main p {
 
     .objectives div h1 {
         text-align: center;
-        font-size: 2.5vw;
+        font-size: 1.5vw;
     }
 
     .objectives div ul {
         width: 35vw;
         padding-left: 3vw;
-        font-size: 1.25vw;
+        font-size: 1vw;
     }
 
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
