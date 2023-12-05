@@ -145,4 +145,11 @@ main p {
         font-size: 1vw;
     }
 
+.bibliography {
+    margin-left: 10vw;
+    margin-right: 10vw;
+    font-style: italic;
+    line-height: 4vh;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
