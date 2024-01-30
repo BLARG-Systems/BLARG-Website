@@ -40,7 +40,7 @@ function getHeader() {
 function getFooter() {
     document.write(`
         <footer>
-            <p>Copyright &copy; 2023, BLARG! Systems. All rights reserved.</p>
+            <p>Copyright &copy; 2024, BLARG! Systems. All rights reserved.</p>
         </footer>
     `)
 }
