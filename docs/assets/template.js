@@ -5,10 +5,14 @@ function getHead() {
         <meta charset="utf-8" />
         <Title>BLARG! Systems</Title>
         <meta content="BLARG! Systems" property="og:title" />
-        <meta content="Here at BLARG! Systems, we dare to challenge the next generation of programming. Our new compiled language, BLARG!, pushes toward meeting modern expectations in programming." property="og:description" />
-        <meta content="https://blargsys.com/" property="og:url" />
-        <meta content="https://blargsys.com/assets/logo.png" property="og:image" />
-        <meta content="#4e6ab8" data-react-helmet="true" name="theme-color" />
+        <meta name="description" content="BLARG! is a new compiled programming language aimed to explore a deeper understanding of Computer Science." />
+        <meta name="keywords" content="BLARG!, Blarg, Programming, Language, C" />
+        <meta property="og:title" content="BLARG! Systems" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="http://blargsys.com" />
+        <meta property="og:image" content="https://blargsys.com/assets/logo.png" />
+        <meta property="og:description" content="BLARG! is a new compiled programming language aimed to explore a deeper understanding of Computer Science." />
+        <meta name="theme-color" content="#4e6ab8">
     `)
 }
 
