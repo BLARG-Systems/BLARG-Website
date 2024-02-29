@@ -3,7 +3,7 @@ function getHead() {
         <link rel="stylesheet" href="style.css" />
         <link rel="icon" href="assets/favicon.ico" />
         <meta charset="utf-8" />
-        <Title>BLARG! Systems</Title>
+        <title>BLARG! Systems</title>
         <meta content="BLARG! Systems" property="og:title" />
         <meta name="description" content="BLARG! is a new compiled programming language aimed to explore a deeper understanding of Computer Science." />
         <meta name="keywords" content="BLARG!, Blarg, Programming, Language, C" />
