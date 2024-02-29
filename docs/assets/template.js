@@ -7,6 +7,7 @@ function getHead() {
         <meta content="BLARG! Systems" property="og:title" />
         <meta name="description" content="BLARG! is a new compiled programming language aimed to explore a deeper understanding of Computer Science." />
         <meta name="keywords" content="BLARG!, Blarg, Programming, Language, C" />
+        <meta name="author" content="BLARG! Developers">
         <meta property="og:title" content="BLARG! Systems" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="http://blargsys.com" />
